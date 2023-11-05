@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnnyTheHood
 - 👀 I’m interested in AI
-- 🌱 I’m currently studing informatics
+- 🌱 I’m currently studing Informatics
 
 
 
